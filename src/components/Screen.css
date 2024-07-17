@@ -1,0 +1,15 @@
+.screen {
+  grid-column: 1/5;
+    
+  
+    padding: 0 10px;
+    background-color: #052f532d;
+   
+    display: flex;
+  
+    justify-content: flex-end;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+    box-sizing: border-box;
+  }

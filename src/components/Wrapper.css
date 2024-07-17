@@ -1,0 +1,14 @@
+.wrapper{
+    position:fixed;
+    top: 20%;
+    left:40%;
+    width: 25%;
+    height: 60%;
+    border: 1px solid;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    grid-template-rows:   auto auto auto auto auto auto;
+    border: 1px solid;
+}
